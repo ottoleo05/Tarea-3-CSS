@@ -1,0 +1,60 @@
+
+.feature.section-padding .container  .row  .col-md-12  .sectioner-header.text-center h3:nth-child(1) {
+    color: #8D1EFB;
+    }
+
+    .feature>.container>.row>.col-md-12>.section-content.text-center>.row .col-md-4.col-sm-12>.media.single-feature.wow.fadeInUp .media-body>h5:only-of-type {
+        color:#5EE25A;
+        
+    }
+
+
+.fa.fa-bolt::before,
+.fa.fa-battery-full::before,
+.fa.fa-wifi::before,
+.fa.fa-check-double::before,
+.fa.fa-dollar-sign::before,
+.fa.fa-hdd::before {
+    color: #f775b4;
+}
+
+section.team.section-padding div.row>div.col-md-12>div.sectioner-header.text-center:nth-child(1)  {
+    border: 1px solid #8D1EFB ;  
+}
+
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+
+.banner h2 {
+    font-weight: 200;
+}
+
+.banner h6 a.weblink {
+    color: red;
+}
+
+.feature + section.team .container .row .col-md-12 .section-content .row .col-md-4 .team-detail h4:only-child {
+    color: #2E74A7;
+}
+
+section.testimonial .container .row .col-md-12 .section-content .row .offset-md-2 .col-md-8 .test-text span:only-child {
+    text-decoration: underline;
+}
+
+footer.footer-copy .container-fluid .row .col-md-12 p a:only-child {
+    color: #844E41;
+}
+
+html body .navbar.navbar-expand-lg.nav-scroll~.feature.section-padding+section.team.section-padding div.container div.row div.col-md-12 div.section-content.text-center>div.row .col-md-4 div.team-detail.wow.bounce h4:only-of-type {
+    color: #2E74A7;
+}
+
+
+html body section.testimonial.section-padding div.container div.row div.col-md-12 div.section-content div.row div.offset-md-2.col-md-8.col-sm-12 div.bx-wrapper div.bx-viewport div.slider div.slider-item div.test-text span:only-of-type {
+    text-decoration: underline;
+}
+
+html body footer.footer-copy div.container-fluid div.row div.col-md-12 p a:only-of-type {
+    color: #844E41;
+  }
